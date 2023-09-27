@@ -1,1 +1,0 @@
-document.getElementById("messagecontainer").textContent = "Salut";
